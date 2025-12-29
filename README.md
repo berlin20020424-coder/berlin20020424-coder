@@ -1,10 +1,13 @@
 👋 你好，我是陈博琳
 Bioinformatics Enthusiast | Master of Science in Biology
-• 🧬 我目前专注于：[例如：基因组组学/单细胞分析/蛋白质结构预测]
+• 🧬 我目前专注于：
+Transcriptomics Analysis | 转录组数据深度挖掘与通路验证
+Gene Regulatory Networks ｜ 基因调控网络逻辑推断（如 EGFR-HERC4 轴）
+Integrative Bioinformatics ｜ 结合统计学与生物逻辑解决实际课题
 
 • 💻 我常用的技术栈：  
 
-• 🎓 目标：[例如：利用计算手段解决生物学问题]
+• 🎓 目标：利用计算手段解决生物学问题
 
 🛠 技术栈
 • 编程语言: Python (Pandas, Numpy), R (Seurat, Tidyverse)
